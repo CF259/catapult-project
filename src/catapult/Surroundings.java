@@ -13,7 +13,7 @@ public class Surroundings extends Polygon{
 		if(x.length != y.length){
 		
 		}
-	}
+	}// This is a change, I guess.
 	
 	public int getGravity(){
 		return gravity;
